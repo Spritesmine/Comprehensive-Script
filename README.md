@@ -1,2 +1,11 @@
-# Comprehensive-Script
-Dedicated to creating a fully functional Linux script
+# 全功能Linux脚本
+
+开个新坑，正在开发第一版
+
+致力于创建一个全功能的Linux脚本（逐渐完善中...）
+
+## 脚本说明
+
+## 更新说明
+
+## 脚本用途
